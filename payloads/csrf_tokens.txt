@@ -1,0 +1,6 @@
+csrf_token
+authenticity_token
+_csrf
+csrfmiddlewaretoken
+token
+security_token
